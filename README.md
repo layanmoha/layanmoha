@@ -2,7 +2,7 @@
 
 🎓 Computer Science Graduate — Qassim University (2026)  
 💻 Passionate about Mobile & Backend Development  
-🔐 Interested in Security-Aware Software Design  
+🔐 Interested in Security-Aware Software Design and Data Analysis
 
 ---
 
